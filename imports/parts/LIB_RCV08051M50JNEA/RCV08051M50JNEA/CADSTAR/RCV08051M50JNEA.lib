@@ -1,0 +1,16 @@
+.RCV08051M50JNEA :1 ;Thick Film Resistors - SMD RCV0805 200 1M5 5% ET1 E3
+RESC2012X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCV08051M50JNEA
+~!Mouser Part Number (71-RCV08051M50JNEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCV08051M50JNEA?qs=hWgE7mdIu5S0Ry5mXWPolg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCV08051M50JNEA)
+~!Link Datasheet (https://www.vishay.com/doc?20054)
+~!Height (0.6mm)
+~!3D_Model (RCV08051M50JNEA)
+RCV08051M50JNEA
+1.1!U 2.1!U 

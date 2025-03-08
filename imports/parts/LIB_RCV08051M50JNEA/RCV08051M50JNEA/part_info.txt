@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=RCV08051M50JNEA
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2025-02-19 09:48:44
+Downloaded=2025-03-06 06:29:24
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HSMR_C170'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "HSMR-C170" (!) = "", "LEDC2012X90N", "LEDs Chip", "630-HSMR-C170", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMR-C170?qs=YDL0qNrpDT75U8LW5zK4Qg%3D%3D", "LED Uni-Color Blue 469nm 2-Pin Chip LED T/R - Tape and Reel", "https://datasheet.datasheetarchive.com/originals/dk/DKDS-25/484042.pdf", "0.9 mm"
+END_PART
+
+END.

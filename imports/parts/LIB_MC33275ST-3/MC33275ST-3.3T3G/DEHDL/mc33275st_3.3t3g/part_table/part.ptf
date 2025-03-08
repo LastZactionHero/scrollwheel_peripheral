@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC33275ST_3.3T3G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MC33275ST-3.3T3G" (!) = "", "SOT230P700X175-4N", "SOT223 (3-Pin)", "863-MC33275ST-3.3T3G", "https://www.mouser.co.uk/ProductDetail/onsemi/MC33275ST-3.3T3G?qs=dFKnUM%2FquJbQYa4LZ%2FVbxA%3D%3D", "Low Quiescent Current (125 mA); Internal Current and Thermal Limiting; Low Input-to-Output Voltage Differential of 25 mV at IO = 10mA, and 260 mV at IO = 300 mA; Extremely Tight Line and Load Regulation; Stable with Output Capacitance of only 0.33 mF for 2.5 V Output Voltage", "https://www.onsemi.com/pub/Collateral/MC33275-D.PDF", "1.75 mm"
+END_PART
+
+END.

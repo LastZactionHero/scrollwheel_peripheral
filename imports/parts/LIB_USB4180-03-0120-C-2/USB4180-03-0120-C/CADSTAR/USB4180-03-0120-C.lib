@@ -1,0 +1,17 @@
+.USB4180-03-0120-C :1 ;Global Connector Technology (GCT) USB-C Plug, Vert, H11mm, SMT, No Latches, 6pin, 1.2mm stakes
+USB4180030120C
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=A5 6=A9 7=A12 8=B5 9=B9 10=B12
+*PLB 1="MH1" 2="MH2" 3="MH3" 4="MH4" 5="CC1" 6="VBUS_1" 7="GND_1" 8="CC2" 9="VBUS_2" 10="GND_2"
+*MXP 12
+*DFN USB4180-03-0120-C
+~!Mouser Part Number (640-USB4180-03-0120C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB4180-03-0120-C?qs=63Lh8XYXgjuxdGoYXvLhgw%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB4180-03-0120-C)
+~!Link Datasheet (https://gct.co/connector/usb4180#)
+~!Height (12.5mm)
+~!3D_Model (USB4180-03-0120-C)
+USB4180-03-0120-C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

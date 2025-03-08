@@ -1,0 +1,16 @@
+.MC33275ST-3.3T3G :1 ;Low Quiescent Current (125 mA); Internal Current and Thermal Limiting; Low Input-to-Output Voltage Differential of 25 mV at IO = 10mA, and 260 mV at IO = 300 mA; Extremely Tight Line and Load Regulation; Stable with Output Capacitance of only 0.33 mF for 2.5 V Output Voltage
+SOT230P700X175-4N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND_1" 3="VOUT" 4="GND_2"
+*MXP 4
+*DFN MC33275ST-3.3T3G
+~!Mouser Part Number (863-MC33275ST-3.3T3G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/MC33275ST-3.3T3G?qs=dFKnUM%2FquJbQYa4LZ%2FVbxA%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MC33275ST-3.3T3G)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/MC33275-D.PDF)
+~!Height (1.75mm)
+~!3D_Model (MC33275ST-3.3T3G)
+MC33275ST-3.3T3G
+1.1!U 2.1!U 3.1!U 4.1!U 

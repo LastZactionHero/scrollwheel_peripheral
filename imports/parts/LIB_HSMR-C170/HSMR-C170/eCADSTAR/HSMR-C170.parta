@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_675005"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-14-04:58:35)
+    (utime 2024-03-23-06:04:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "HSMR-C170")
+)
+
+
+(pinAssign "ECS_675005"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-14-04:58:35)
+    (utime 2024-03-23-06:04:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_675005")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "HSMR-C170")
+)
+
+
+(part "HSMR-C170"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-14-04:58:35)
+    (utime 2024-03-23-06:04:46)
+    (packageRef "HSMR-C170")
+    (pinAssignRef "ECS_675005")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "LED Uni-Color Blue 469nm 2-Pin Chip LED T/R - Tape and Reel")
+    (property "Mouser_Part_Number" "630-HSMR-C170")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMR-C170?qs=YDL0qNrpDT75U8LW5zK4Qg%3D%3D")
+    (property "Manufacturer_Name" "Avago Technologies")
+    (property "Manufacturer_Part_Number" "HSMR-C170")
+    (property "Datasheet_Link" "https://datasheet.datasheetarchive.com/originals/dk/DKDS-25/484042.pdf")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

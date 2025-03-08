@@ -1,0 +1,9 @@
+Manufacturer=TAIYO YUDEN
+PartNumber=MAASL105CD7105MFCA01
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=3.1
+Released=2024-04-25 09:18:29
+Downloaded=2025-03-06 06:28:53
+3D=Y

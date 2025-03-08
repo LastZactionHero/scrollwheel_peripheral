@@ -1,0 +1,17 @@
+.PEC11R-4220F-S0024 :1 ;Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole
+PEC11R4220FS0024
+*STM VR
+*NGS
+*PNM 1=1 2=2 3=A1 4=B1 5=C1 6=MH1 7=MH2
+*PLB 1="1" 2="2" 3="A" 4="B" 5="C" 6="MH1" 7="MH2"
+*MXP 7
+*DFN PEC11R-4220F-S0024
+~!Mouser Part Number (652-PEC11R-4220F-S24)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PEC11R-4220F-S0024?qs=Zq5ylnUbLm6NGsQdib%2Ffbw%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PEC11R-4220F-S0024)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf)
+~!Height (27.5mm)
+~!3D_Model (PEC11R-4220F-S0024)
+PEC11R-4220F-S0024
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

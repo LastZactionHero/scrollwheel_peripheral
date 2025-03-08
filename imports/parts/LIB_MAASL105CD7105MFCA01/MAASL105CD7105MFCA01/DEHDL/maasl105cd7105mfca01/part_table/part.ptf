@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAASL105CD7105MFCA01'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TAIYO YUDEN", "MAASL105CD7105MFCA01" (!) = "", "CAPC1005X55N", "Capacitor Chip Non-polarised", "963-MAASL105CD7105MF", "https://www.mouser.co.uk/ProductDetail/TAIYO-YUDEN/MAASL105CD7105MFCA01?qs=HFfMDpzxxd1XWA4Yx70b9w%3D%3D", "MULTILAYER CERAMIC CAPACITORS[Multilayer Ceramic Capacitors (High dielectric type) for Automotive Powertrain and Safety (Cu external electrode products)]", "", "0.55 mm"
+END_PART
+
+END.

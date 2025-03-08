@@ -1,0 +1,144 @@
+
+(EDIF
+  (rename &PEC11R_4220F_S0024 "PEC11R_4220F_S0024")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 03 06 06 26 47)
+      (dataOrigin "960978/1620765/2.50/7/4/Variable Resistor")
+      (program "SamacSys ECAD Model PEC11R_4220F_S0024"
+        (version "1.5"))))
+  (library
+  (rename &PEC11R_4220F_S0024 "PEC11R_4220F_S0024")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &PEC11R_4220F_S0024 "PEC11R_4220F_S0024")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "VR")
+          (property (rename PACKAGENAME "PackageName") (string "PEC11R_4220F_S0024"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "PEC11R4220FS0024"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "652-PEC11R-4220F-S24"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/Bourns/PEC11R-4220F-S0024?qs=Zq5ylnUbLm6NGsQdib%2Ffbw%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Bourns"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "PEC11R-4220F-S0024"))
+          (property (rename &Description "Description") (string "Bourns 24 Pulse Incremental Mechanical Rotary Encoder with a 6 mm Flat Shaft (Not Indexed), Through Hole"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf"))
+          (property (rename &Height "Height") (string "27.5 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "PEC11R_4220F_S0024"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &A "A")
+            (designator "A1")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &B "B")
+            (designator "B1")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (port
+            (rename &C "C")
+            (designator "C1")
+            (property (rename ORDER "Order") (string "4") (owner "OrCAD"))
+          )
+          (port
+            (rename &MH1 "MH1")
+            (designator "MH1")
+            (property (rename ORDER "Order") (string "5") (owner "OrCAD"))
+          )
+          (port
+            (rename &MH2 "MH2")
+            (designator "MH2")
+            (property (rename ORDER "Order") (string "6") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1 (display PINNAME))
+              (figure PIN (path (pointList (pt 200 200) (pt 200 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 200 200))))
+            )
+            (portImplementation
+              (name &2 (display PINNAME))
+              (figure PIN (path (pointList (pt 300 200) (pt 300 0))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 200))))
+            )
+            (portImplementation
+              (name &A (display PINNAME))
+              (figure PIN (path (pointList (pt 200 -800) (pt 200 -600))))
+              (connectLocation (figure GRAPHIC (dot (pt 200 -800))))
+            )
+            (portImplementation
+              (name &B (display PINNAME))
+              (figure PIN (path (pointList (pt 400 -800) (pt 400 -600))))
+              (connectLocation (figure GRAPHIC (dot (pt 400 -800))))
+            )
+            (portImplementation
+              (name &C (display PINNAME))
+              (figure PIN (path (pointList (pt 300 -800) (pt 300 -600))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -800))))
+            )
+            (portImplementation
+              (name &MH1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -300) (pt 0 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -300))))
+            )
+            (portImplementation
+              (name &MH2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 600 -300) (pt 800 -300))))
+              (connectLocation (figure GRAPHIC (dot (pt 800 -300))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 600 0)
+                  (pt 600 -600)
+                  (pt 0 -600)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 650 30))))
+          )
+        )
+      )
+    )
+  )
+)
