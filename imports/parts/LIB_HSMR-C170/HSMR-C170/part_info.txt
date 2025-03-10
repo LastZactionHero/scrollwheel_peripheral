@@ -1,9 +1,0 @@
-Manufacturer=Avago Technologies
-PartNumber=HSMR-C170
-PartCategory=LED
-PackageCategory=LEDs Chip
-PinCount=2
-Version=1.1
-Released=2020-10-14 04:58:35
-Downloaded=2025-03-06 06:31:21
-3D=Y

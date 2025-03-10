@@ -1,9 +1,0 @@
-Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
-PartNumber=USB4180-03-0120-C
-PartCategory=Connector
-PackageCategory=Other
-PinCount=10
-Version=2.8
-Released=2023-07-12 08:17:46
-Downloaded=2025-03-06 06:32:51
-3D=Y

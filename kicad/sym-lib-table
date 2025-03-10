@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HSMR-C170")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/HSMR-C170.lib")(options "")(descr ""))
+  (lib (name "USB4180-03-0120-C")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/USB4180-03-0120-C.lib")(options "")(descr ""))
+  (lib (name "RCV08051M50JNEA")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/RCV08051M50JNEA.lib")(options "")(descr ""))
+  (lib (name "MAASL105CD7105MFCA01")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/MAASL105CD7105MFCA01.lib")(options "")(descr ""))
+  (lib (name "PEC11R-4220F-S0024")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/PEC11R-4220F-S0024.lib")(options "")(descr ""))
+  (lib (name "MC33275ST-3.3T3G")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/MC33275ST-3.3T3G.lib")(options "")(descr ""))
+  (lib (name "ATMEGA32U4-AU")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/ATMEGA32U4-AU.lib")(options "")(descr ""))
+  (lib (name "KAM21BR71H104JT")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/KAM21BR71H104JT.lib")(options "")(descr ""))
+  (lib (name "custom_parts")(type "KiCad")(uri "${KIPRJMOD}/custom_parts.kicad_sym")(options "")(descr ""))
+)

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP HSMR-C170
-D LED Uni-Color Blue 469nm 2-Pin Chip LED T/R - Tape and Reel
-K
-F https://datasheet.datasheetarchive.com/originals/dk/DKDS-25/484042.pdf
-$ENDCMP
-#
-#End Doc Library

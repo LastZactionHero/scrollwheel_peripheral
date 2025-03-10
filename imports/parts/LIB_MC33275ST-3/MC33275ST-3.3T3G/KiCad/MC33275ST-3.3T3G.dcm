@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MC33275ST-3.3T3G
-D Low Quiescent Current (125 mA); Internal Current and Thermal Limiting; Low Input-to-Output Voltage Differential of 25 mV at IO = 10mA, and 260 mV at IO = 300 mA; Extremely Tight Line and Load Regulation; Stable with Output Capacitance of only 0.33 mF for 2.5 V Output Voltage
-K
-F https://www.onsemi.com/pub/Collateral/MC33275-D.PDF
-$ENDCMP
-#
-#End Doc Library
