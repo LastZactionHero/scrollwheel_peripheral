@@ -9,4 +9,6 @@
   (lib (name "ATMEGA32U4-AU")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/ATMEGA32U4-AU.lib")(options "")(descr ""))
   (lib (name "KAM21BR71H104JT")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/KAM21BR71H104JT.lib")(options "")(descr ""))
   (lib (name "custom_parts")(type "KiCad")(uri "${KIPRJMOD}/custom_parts.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ20-C-H-G-MSMT-4-P16-TR")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/UJ20-C-H-G-MSMT-4-P16-TR.lib")(options "")(descr ""))
+  (lib (name "TSW-110-07-F-D")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/TSW-110-07-F-D.lib")(options "")(descr ""))
 )

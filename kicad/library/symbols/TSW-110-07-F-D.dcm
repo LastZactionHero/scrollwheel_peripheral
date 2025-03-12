@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSW-110-07-F-D
+D 20 Position, Classic PCB Header Strips, 0.100&quot; pitch
+K
+F http://suddendocs.samtec.com/prints/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf
+$ENDCMP
+#
+#End Doc Library
