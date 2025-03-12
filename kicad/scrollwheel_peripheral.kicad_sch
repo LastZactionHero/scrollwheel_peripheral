@@ -5316,7 +5316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UJ20CHGMSMT4P16TR"
+		(property "Footprint" "project_footprints:UJ20CHGMSMT4P16TR"
 			(at 49.53 40.64 0)
 			(effects
 				(font
@@ -5488,7 +5488,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 77.724 52.324 90)
 			(effects
 				(font
@@ -5623,7 +5623,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 5.334 57.404 90)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 143.2052 177.8 0)
 			(effects
 				(font
@@ -5964,7 +5964,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC11R4220FS0024"
+		(property "Footprint" "project_footprints:PEC11R4220FS0024"
 			(at 254 36.83 0)
 			(effects
 				(font
@@ -6245,7 +6245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 112.7252 175.26 0)
 			(effects
 				(font
@@ -6315,7 +6315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 135.5852 177.8 0)
 			(effects
 				(font
@@ -6449,7 +6449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC11R4220FS0024"
+		(property "Footprint" "project_footprints:PEC11R4220FS0024"
 			(at 251.46 91.44 0)
 			(effects
 				(font
@@ -6664,7 +6664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_DS26_D2.0mm_L6.0mm_Horizontal"
 			(at 138.43 167.64 0)
 			(effects
 				(font
@@ -6798,7 +6798,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 94.234 86.614 90)
 			(effects
 				(font
@@ -7065,7 +7065,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 158.75 48.5648 0)
 			(effects
 				(font
@@ -7203,7 +7203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "project_footprints:TSW-110-XX-YY-D"
 			(at 151.13 12.7 90)
 			(effects
 				(font
@@ -7429,7 +7429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 79.7052 85.09 0)
 			(effects
 				(font
@@ -7497,7 +7497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-110-XX-YY-D"
+		(property "Footprint" "project_footprints:TSW-110-XX-YY-D"
 			(at 208.28 121.92 0)
 			(effects
 				(font
@@ -7747,7 +7747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFP80P1200X1200X120-44N"
+		(property "Footprint" "project_footprints:QFP80P1200X1200X120-44N"
 			(at 175.26 59.69 0)
 			(effects
 				(font
@@ -8070,7 +8070,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 94.234 89.154 90)
 			(effects
 				(font
@@ -8205,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W8.61mm_P2.54mm"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -8281,7 +8281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 77.1652 109.22 0)
 			(effects
 				(font
@@ -8549,7 +8549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 205.74 104.4448 0)
 			(effects
 				(font
@@ -8889,7 +8889,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.376 141.224 90)
 			(effects
 				(font
