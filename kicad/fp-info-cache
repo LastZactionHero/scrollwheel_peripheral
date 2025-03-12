@@ -1,4 +1,4 @@
-24751393897752287
+24756620868128993
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99568,9 +99568,30 @@ Integrated Circuit
 4
 4
 project_footprints
+TSW-110-XX-YY-D
+TSW-110-XX-YY-D
+Connector
+0
+20
+20
+project_footprints
+UJ20CHGMSMT4P16TR
+UJ20-C-H-G-MSMT-4-P16-TR-2
+Connector
+0
+16
+16
+project_footprints
 USB4180030120C
 USB4180-03-0120-C-2
 Connector
 0
 10
 10
+project_footprints
+XTAL_ECS-40-20-28AX-TR
+
+
+0
+4
+4
